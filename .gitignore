@@ -1,0 +1,7 @@
+.vscode
+
+app/__pycache__
+app/.ipynb_checkpoints
+
+
+Pipfile.lock
